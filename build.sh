@@ -1,0 +1,1 @@
+env GO111MODULE=off go build -o ./target/server *.go
