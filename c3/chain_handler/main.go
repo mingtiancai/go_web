@@ -29,6 +29,6 @@ func main() {
 		Addr: "127.0.0.1:8080",
 	}
 	hello := HelloHandle{}
-	http.Handle("/hello", protect(log(hello)))
+	http.Handle("/hello/", protect(log(hello)))
 	server.ListenAndServe()
 }
