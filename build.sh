@@ -9,4 +9,5 @@
 # go build -o ./target/c4/header ./c4/header/*.go
 # go build -o ./target/c4/body ./c4/body/*.go
 # go build -o ./target/c4/form ./c4/form/*.go
-go build -o ./target/c4/file_upload ./c4/file_upload/*.go
+# go build -o ./target/c4/file_upload ./c4/file_upload/*.go
+go build -o ./target/c4/write ./c4/write/*.go
