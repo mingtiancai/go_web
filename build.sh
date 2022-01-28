@@ -6,4 +6,6 @@
 # go build -o ./target/c3/chain_handler ./c3/chain_handler/*.go
 # go build -o ./target/c3/httprouter ./c3/httprouter/*.go
 # go build -o ./target/c3/https ./c3/https/*.go
-go build -o ./target/c4/header ./c4/header/*.go
+# go build -o ./target/c4/header ./c4/header/*.go
+# go build -o ./target/c4/body ./c4/body/*.go
+go build -o ./target/c4/form ./c4/form/*.go
