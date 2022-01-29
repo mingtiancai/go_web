@@ -17,4 +17,6 @@
 # go build -o ./target/c5/iterator/ ./c5/iterator/*.go
 # go build -o ./target/c5/set_dot/ ./c5/set_dot/*.go
 # go build -o ./target/c5/include/ ./c5/include/*.go
-go build -o ./target/c5/custom/ ./c5/custom_function/*.go
+# go build -o ./target/c5/custom/ ./c5/custom_function/*.go
+# go build -o ./target/c6/map_store/ ./c6/map_store/*.go
+go build -o ./target/c6/read_write_files/ ./c6/read_write_files/*.go
