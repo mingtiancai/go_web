@@ -13,4 +13,5 @@
 # go build -o ./target/c4/write ./c4/write/*.go
 # go build -o ./target/c4/cookie ./c4/cookie/*.go
 # go build -o ./target/c5/simple_template/ ./c5/simple_template/*.go
-go build -o ./target/c5/random_number/ ./c5/random_number/*.go
+# go build -o ./target/c5/random_number/ ./c5/random_number/*.go
+go build -o ./target/c5/iterator/ ./c5/iterator/*.go
