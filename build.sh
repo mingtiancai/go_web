@@ -16,4 +16,5 @@
 # go build -o ./target/c5/random_number/ ./c5/random_number/*.go
 # go build -o ./target/c5/iterator/ ./c5/iterator/*.go
 # go build -o ./target/c5/set_dot/ ./c5/set_dot/*.go
-go build -o ./target/c5/include/ ./c5/include/*.go
+# go build -o ./target/c5/include/ ./c5/include/*.go
+go build -o ./target/c5/custom/ ./c5/custom_function/*.go
