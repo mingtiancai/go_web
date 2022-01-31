@@ -22,4 +22,5 @@
 # go build -o ./target/c6/read_write_files/ ./c6/read_write_files/*.go
 # go build -o ./target/c6/csv_store/ ./c6/csv_store/*.go
 # go build -o ./target/c6/gob_store/ ./c6/gob_store/*.go
-go build -o ./target/c6/sql_store1/ ./c6/sql_store1/*.go
+# go build -o ./target/c6/sql_store1/ ./c6/sql_store1/*.go
+go build -o ./target/c6/sql_store2/ ./c6/sql_store2/*.go
