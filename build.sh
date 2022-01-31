@@ -25,4 +25,5 @@
 # go build -o ./target/c6/sql_store1/ ./c6/sql_store1/*.go
 # go build -o ./target/c6/sql_store2/ ./c6/sql_store2/*.go
 # go build -o ./target/c6/sqlx/ ./c6/sqlx/*.go
-go build -o ./target/c6/gorm/ ./c6/gorm/*.go
+# go build -o ./target/c6/gorm/ ./c6/gorm/*.go
+go build -o ./target/c7/xml_parsing_unmarshal_1/ ./c7/xml_parsing_unmarshal_1/*.go
