@@ -27,4 +27,5 @@
 # go build -o ./target/c6/sqlx/ ./c6/sqlx/*.go
 # go build -o ./target/c6/gorm/ ./c6/gorm/*.go
 # go build -o ./target/c7/xml_parsing_unmarshal_1/ ./c7/xml_parsing_unmarshal_1/*.go
-go build -o ./target/c7/xml_parsing_unmarshal_2/ ./c7/xml_parsing_unmarshal_2/*.go
+# go build -o ./target/c7/xml_parsing_unmarshal_2/ ./c7/xml_parsing_unmarshal_2/*.go
+go build -o ./target/c7/xml_parsing_decoder/ ./c7/xml_parsing_decoder/*.go
