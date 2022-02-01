@@ -34,4 +34,5 @@
 # go build -o ./target/c7/json_parsing_unmarshal/ ./c7/json_parsing_unmarshal/*.go
 # go build -o ./target/c7/json_parsing_decoder/ ./c7/json_parsing_decoder/*.go
 # go build -o ./target/c7/json_creating_marshal/ ./c7/json_creating_marshal/*.go
-go build -o ./target/c7/json_creating_encoder/ ./c7/json_creating_encoder/*.go
+# go build -o ./target/c7/json_creating_encoder/ ./c7/json_creating_encoder/*.go
+go build -o ./target/c7/web_service/ ./c7/web_service/*.go
