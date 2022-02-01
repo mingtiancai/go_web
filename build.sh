@@ -30,5 +30,6 @@
 # go build -o ./target/c7/xml_parsing_unmarshal_2/ ./c7/xml_parsing_unmarshal_2/*.go
 # go build -o ./target/c7/xml_parsing_decoder/ ./c7/xml_parsing_decoder/*.go
 # go build -o ./target/c7/xml_creating_marshal/ ./c7/xml_creating_marshal/*.go
-go build -o ./target/c7/xml_creating_encoder/ ./c7/xml_creating_encoder/*.go
+# go build -o ./target/c7/xml_creating_encoder/ ./c7/xml_creating_encoder/*.go
+go build -o ./target/c7/json_parsing_unmarshal/ ./c7/json_parsing_unmarshal/*.go
 
